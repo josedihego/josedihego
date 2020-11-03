@@ -16,7 +16,7 @@ subtitle = ""
 
 
 [[feature]]
- icon = "flutter512"
+ icon = "flutter-512"
   icon_pack = "custom"
   name = "Flutter"
 
