@@ -12,6 +12,33 @@
   languageCode = "en-us"
   contentDir = "content/en"
 
+
+[[en.menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 20
+
+[[en.menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
+
+[[en.menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 40
+
+[[en.menu.main]]
+  name = "Tech"
+  url = "#skills"
+  weight = 50
+
+[[en.menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 70
+
+
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
