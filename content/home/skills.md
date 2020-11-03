@@ -16,15 +16,10 @@ subtitle = ""
 
 
 [[feature]]
- icon = "flutter2"
+ icon = "flutter512"
   icon_pack = "custom"
   name = "Flutter"
 
-[[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  
 [[feature]]
   icon = "android"
   icon_pack = "fab"
@@ -32,10 +27,15 @@ subtitle = ""
 
 
 [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-
 
 
 # Uncomment to use emoji icons.
