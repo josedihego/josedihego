@@ -1,7 +1,7 @@
 ---
-title: "[ANDROID] Quanta Água"
+title: Quanta Água
 subtitle: Quanta Água
-date: 2020-11-03T13:15:40.649Z
+date: 2017-07-20T13:15:00.000Z
 draft: false
 featured: false
 external_link: https://play.google.com/store/apps/details?id=com.dihego.jose.quantaagua&hl=pt
@@ -10,3 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+[Android](https://play.google.com/store/apps/details?id=com.dihego.jose.quantaagua&hl=pt)
