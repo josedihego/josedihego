@@ -14,6 +14,12 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+
+[[feature]]
+ icon = "flutter"
+  icon_pack = "custom"
+  name = "Flutter"
+
 [[feature]]
   icon = "java"
   icon_pack = "fab"
@@ -29,6 +35,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+
 
 
 # Uncomment to use emoji icons.
