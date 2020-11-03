@@ -1,7 +1,7 @@
 ---
-title: "[ANDROID] QualisFacil"
+title: QualisFacil
 subtitle: QualisFacil
-date: 2020-11-03T13:20:33.420Z
+date: 2020-01-13T13:20:00.000Z
 draft: false
 featured: false
 external_link: https://play.google.com/store/apps/details?id=josedihego.qualis&hl=pt
@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<https://play.google.com/store/apps/details?id=josedihego.qualis&hl=pt>
+[Android](https://play.google.com/store/apps/details?id=josedihego.qualis&hl=pt)
