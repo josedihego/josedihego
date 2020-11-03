@@ -10,4 +10,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<https://play.google.com/store/apps/details?id=com.dihego.jose.aloifba>
