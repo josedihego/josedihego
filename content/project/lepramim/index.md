@@ -2,6 +2,11 @@
 title: LePraMim
 subtitle: LePraMim
 date: 2020-10-22T13:37:00.000Z
+summary: >-
+  [Android](https://play.google.com/store/apps/details?id=josedihego.yeux&hl=pt_BR)
+
+
+  [iOS](https://apps.apple.com/br/app/lepramim/id1536944507)
 draft: false
 featured: false
 external_link: https://play.google.com/store/apps/details?id=josedihego.yeux&hl=pt_BR
@@ -11,3 +16,5 @@ image:
   preview_only: false
 ---
 [Android](https://play.google.com/store/apps/details?id=josedihego.yeux&hl=pt_BR)
+
+[iOS](https://apps.apple.com/br/app/lepramim/id1536944507)
