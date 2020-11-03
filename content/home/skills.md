@@ -38,6 +38,8 @@ subtitle = ""
   name = "Python"
 
 [[feature]]
+  icon = "csp"
+  icon_pack = "custom"
   name = "communicating sequential process"
 
 # Uncomment to use emoji icons.
