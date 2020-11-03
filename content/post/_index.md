@@ -1,5 +1,5 @@
 ---
-title: Aplicativos
+title: Posts
 subtitle: Android
 date: 2020-11-03T12:24:26.797Z
 draft: true
