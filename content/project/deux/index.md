@@ -6,7 +6,7 @@ draft: false
 featured: false
 external_link: https://play.google.com/store/apps/details?id=josedihego.deux
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
