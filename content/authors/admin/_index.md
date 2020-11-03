@@ -29,9 +29,7 @@ education:
       institution: UFPE
       year: 2008
 superuser: true
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 highlight_name: false
 email: jose.dihego@ifba.edu.br
 ---
