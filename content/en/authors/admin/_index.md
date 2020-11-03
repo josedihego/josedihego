@@ -1,12 +1,12 @@
 ---
-title: José Dihego da Silva Oliveira EN
-role: Professor IFBA
+title: José Dihego da Silva Oliveira
+role: Professor at IFBA
 avatar_filename: avatar.jpg
-bio: "Professor de Computação IFBA "
+bio: "Professor of Computer Science at IFBA"
 interests:
-  - Métodos Formais
-  - Linguagens de Programação
-  - Desenvolvimento Mobile
+  - Formal methods
+  - Programing languages
+  - Mobile development
 social:
   - icon: envelope
     icon_pack: fas
@@ -15,22 +15,22 @@ social:
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&user=eJbmo3kAAAAJ&view_op=list_works&gmla=AJsN-F7xBhqll1OTIneXp7xEf0PgPGIkBoeWvQ-ux-2gaCGEyNOXIcWoueS_AkbcqsIDXGXwZWNYcBlICnWkPy_VBwzDls7oVCyyNOFEFA6zm7bgg9cxqT0
 organizations:
-  - name: IFBA
+  - name: IFBA (Portuguese)
     url: https://portal.ifba.edu.br
 education:
   courses:
-    - course: Doutorado em Ciência da Computação
-      institution: UFPE
+    - course: PhD in Computer Science
+      institution: UFPE - Brazil
       year: 2016
-    - course: Mestrado  em Ciência da Computação
-      institution: UFPE
+    - course: MSc in Computer Science
+      institution: UFPE - Brazil
       year: 2010
-    - course: Graduação  em Ciência da Computação
-      institution: UFPE
+    - course: BSc in Computer Science
+      institution: UFPE - Brazil
       year: 2008
 superuser: true
 user_groups: []
 highlight_name: false
 email: jose.dihego@ifba.edu.br
 ---
-Professor Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA (desde 2010). Formação: Graduado (2008), Mestrado (2010) e Doutorado (2016) em Ciência da Computação, os três no CIn-UFPE. Interesse em Métodos Formais, Linguagens de Programação e Desenvolvimento Mobile.
+Professor at Federal Institute of Education, Science and Technology of Bahia - IFBA (since 2010). Education: Graduated (2008), Master (2010) and Doctorate (2016) in Computer Science, all three at CIn-UFPE. Interested in Formal Methods, Programming Languages ​​and Mobile Development - extremely interested, I need to say :)
