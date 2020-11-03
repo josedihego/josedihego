@@ -1,14 +1,15 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: Aplicativos
+subtitle: Android
+date: 2020-11-03T12:24:26.797Z
+draft: true
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+featured: true
+image:
+  filename: featured.png
+  preview_only: true
 ---
+* https://play.google.com/store/apps/details?id=com.dihego.jose.aloifba
