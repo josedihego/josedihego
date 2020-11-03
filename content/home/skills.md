@@ -37,6 +37,8 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
 
+[[feature]]
+  name = "communicating sequential process"
 
 # Uncomment to use emoji icons.
 # [[feature]]
