@@ -5,7 +5,7 @@ date: 2020-10-07T13:36:00.000Z
 summary: |-
   [Android](https://play.google.com/store/apps/details?id=josedihego.deux) 
 
-  [iOS](https://apps.apple.com/br/app/deux/id1533911323)
+  [iOS](https://apps.apple.com/app/deux/id1533911323)
 draft: false
 featured: false
 external_link: https://play.google.com/store/apps/details?id=josedihego.deux
@@ -16,4 +16,4 @@ image:
 ---
 [Android](https://play.google.com/store/apps/details?id=josedihego.deux) 
 
-[iOS](https://apps.apple.com/br/app/deux/id1533911323)
+[iOS](https://apps.apple.com/app/deux/id1533911323)
