@@ -7,6 +7,11 @@ summary: >-
 
 
   [iOS](https://apps.apple.com/br/app/lepramim/id1536944507)
+
+  Extração de texto de imagens e muitas possibilidades para facilitar sua vida.
+Gratuíto, sem propagandas, sem fins lucrativos.
+Funciona offline.
+
 draft: false
 featured: false
 external_link: https://play.google.com/store/apps/details?id=josedihego.yeux&hl=pt_BR
