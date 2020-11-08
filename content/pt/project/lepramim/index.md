@@ -9,7 +9,7 @@ summary: >-
   [iOS](https://apps.apple.com/br/app/lepramim/id1536944507)
 
 draft: false
-featured: false
+featured: true
 external_link: https://play.google.com/store/apps/details?id=josedihego.yeux&hl=pt_BR
 image:
   filename: featured.png
