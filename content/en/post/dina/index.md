@@ -1,11 +1,8 @@
 ---
-title: Read4Me
+title: Genarus
 subtitle: how to use
 date: 2020-11-03T19:17:03.431Z
-summary: <iframe width="300" height="200"
-  src="https://youtu.be/UJMDGpmiTfc" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
-  picture-in-picture" allowfullscreen></iframe>
+summary: <iframe width="560" height="315" src="https://www.youtube.com/embed/UJMDGpmiTfc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 draft: false
 featured: true
 image:
