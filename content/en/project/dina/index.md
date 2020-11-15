@@ -26,3 +26,5 @@ image:
 [Android](https://play.google.com/store/apps/details?id=josedihego.plus)
 
 Genarus is an app that recognises objects and text from your camera and speaks it aloud. It is designed to help blind and visually impaired individuals. It has amazing features: works 100% offline, no account need, no cost, no ads and no limits on app usage and functionality.
+
+Dedicated to Francisco Genário Dias de Oliveira

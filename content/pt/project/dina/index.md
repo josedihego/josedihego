@@ -26,3 +26,5 @@ image:
 [Android](https://play.google.com/store/apps/details?id=josedihego.plus&hl=pt)
 
 Dina é um aplicativo que reconhece objetos e textos utilizando sua câmera e os fala em voz alta. Ele é projetado para ajudar deficiêntes visuais. Ele tem recursos incríveis: funciona 100% offline, sem necessidade de conta, sem custo, sem anúncios e sem limites de uso e funcionalidade.
+
+Em memória de Dina (Geraldina Santos Barbosa)
