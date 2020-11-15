@@ -6,7 +6,7 @@ summary: >-
   [Android](https://play.google.com/store/apps/details?id=josedihego.plus&hl=pt)
 
 
-  [iOS](https://apps.apple.com/br/app/lepramim/id1536944507)
+  [iOS](https://apps.apple.com/br/app/dina/id1540129033)
 
 
   Dina é um aplicativo que reconhece objetos e textos utilizando sua câmera e os fala em voz alta. Ele é projetado para ajudar deficiêntes visuais. Ele tem recursos incríveis: funciona 100% offline, sem necessidade de conta, sem custo, sem anúncios e sem limites de uso e funcionalidade.
@@ -21,7 +21,7 @@ image:
 ---
 [Android](https://play.google.com/store/apps/details?id=josedihego.plus&hl=pt)
 
-[iOS](https://apps.apple.com/br/app/lepramim/id1536944507)
+[iOS](https://apps.apple.com/br/app/dina/id1540129033)
 
 [Android](https://play.google.com/store/apps/details?id=josedihego.plus&hl=pt)
 
